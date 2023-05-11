@@ -1,5 +1,5 @@
 out=0
-
+#Try History
 while(out != 'y'):
         
         print("Functions:\n 1-lower() \n 2-join() \n 3-islower()")
