@@ -1,4 +1,4 @@
-
+#new line
 'Input from User'
 name =input("Pls Enter Your Name :")
 age = input ("Pls Enter Your Age :")
